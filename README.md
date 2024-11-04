@@ -1,14 +1,11 @@
-## Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yeom95)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeom95&layout=compact)
 
 ⚡ Tech stack ⚡<br>
 <img src="https://img.shields.io/badge/HTML-98FB98?style=fot-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS-98FB98?style=fot-the-badge&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/Java Script-98FB98?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E"><br>
 <img src="https://img.shields.io/badge/Unity-020715?style=fot-the-badge&logo=Unity&logoColor=#FFFFFF"><br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yeom95)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeom95&layout=compact)
-
 
 <!--
 **Yeom95/Yeom95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
